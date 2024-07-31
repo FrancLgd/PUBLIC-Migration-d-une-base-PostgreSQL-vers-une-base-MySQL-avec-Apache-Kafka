@@ -1,0 +1,8 @@
+data/*
+!data/demo-small-en-20170815.sql
+__pycache__/
+credentials.json
+old/*
+bin/*
+secrets/*
+google-cloud-sdk/*
